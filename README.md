@@ -7,10 +7,7 @@ Beatriz Heimann Gesser.
 - Beatriz:
   Criação do repositório, README e adição dos membros. 
 ### Cronograma
-Semana 1: Escolha do banco de dados.  
-Semana 2: Criação do repositório no GitHub e Readme.  
-Semana 3: Organização das tarefas.   
-Semana 4: Definição das transformações e dashboard.  
+
 ## Base de dados utilizada
 https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-20242025
 
