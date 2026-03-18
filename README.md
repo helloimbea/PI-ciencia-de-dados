@@ -12,6 +12,7 @@ Beatriz Heimann Gesser.
 https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-20242025
 
 ### Contexto
+### Justificativa
 ### Objetivo da análise
 ### Transformações a serem realizadas
 ## Ideia inicial do dashboard
