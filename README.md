@@ -14,7 +14,8 @@ Yago Henrique Zorzetto
 - Beatriz:
   Criação do repositório, README e adição dos membros. 
 - Emily: Contexto do banco de dados  utilizado e transformações a serem realizadas. 
-- Yago: Objetivo da análise do banco de dados.
+- Yago: Objetivo da análise do banco de dados e Justificativa 
+
 ### Cronograma
 
 ## Base de dados utilizada
@@ -26,6 +27,9 @@ A base de dados utilizada faz parte do State of Data Brazil 2024-2025, o maior l
 O dataset reúne informações sobre carreira, salários, tecnologias utilizadas, formação e tendências da área de dados, permitindo uma análise abrangente do cenário atual no país.
 
 ### Justificativa
+O mercado de dados tem crescido rapidamente no Brasil, aumentando a demanda por profissionais como analistas, cientistas e engenheiros de dados. No entanto, muitas pessoas ainda possuem dúvidas sobre salários, tecnologias exigidas e caminhos de carreira na área.
+
+Então este projeto se justifica pela necessidade de transformar dados reais do mercado em informações claras e acessíveis, auxiliando estudantes e profissionais na tomada de decisão sobre carreira.
 
 ### Objetivo da análise
 O objetivo deste projeto é analisar os dados da pesquisa State of Data Brazil 2024-2025 para identificar padrões e tendências no mercado de dados no Brasil.
