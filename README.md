@@ -21,10 +21,6 @@ A base de dados utilizada faz parte do State of Data Brazil 2024-2025, o maior l
 O dataset reúne informações sobre carreira, salários, tecnologias utilizadas, formação e tendências da área de dados, permitindo uma análise abrangente do cenário atual no país.
 ### Justificativa
 ### Objetivo da análise
-### Transformações a serem realizadas
-## Ideia inicial do dashboard
-
-### Objetivo da Análise 
 O objetivo deste projeto é analisar os dados da pesquisa State of Data Brazil 2024-2025 para identificar padrões e tendências no mercado de dados no Brasil.
 
 A análise busca responder questões como:
@@ -34,3 +30,7 @@ A análise busca responder questões como:
 - Quais são os cargos mais comuns na área de dados?
 
 Com isso, pretendemos gerar insights relevantes sobre o cenário atual da área.
+
+### Transformações a serem realizadas
+## Ideia inicial do dashboard
+
