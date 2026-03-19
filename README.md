@@ -3,7 +3,12 @@ Repositório para a unidade curricular Projeto Integrador do curso de Análise e
 ## Tema do projeto
 ## Integrantes
 Beatriz Heimann Gesser. 
+Davi Urbina Siqueira.
 Emily Nascimento Klinke. 
+Gabriel Hisatugu Alves De Oliveira.
+Thalia Maria Machado.
+Thalita Pastorini de Araujo.
+Vitor Aluisio Souza Lopes.
 Yago Henrique Zorzetto
 ### Planejamento das tarefas
 - Beatriz:
