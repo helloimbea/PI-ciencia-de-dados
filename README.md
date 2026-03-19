@@ -39,5 +39,13 @@ A análise busca responder questões como:
 Com isso, pretendemos gerar insights relevantes sobre o cenário atual da área.
 
 ### Transformações a serem realizadas
+Para a realização da análise, serão aplicadas as seguintes transformações nos dados:
+
+- Remoção ou tratamento de valores nulos
+- Padronização de nomes de cargos e tecnologias
+- Seleção das colunas relevantes para a análise
+- Agrupamento de dados por categorias (cargo, experiência, etc.)
+- Cálculo de métricas como média salarial
+- Filtragem de dados inconsistentes ou irrelevantes
 ## Ideia inicial do dashboard
 
