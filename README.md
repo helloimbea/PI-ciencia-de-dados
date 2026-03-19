@@ -13,7 +13,7 @@ Yago Henrique Zorzetto
 ### Planejamento das tarefas
 - Beatriz:
   Criação do repositório, README e adição dos membros. 
-- Emily: Contexto do banco de dados  utilizado.
+- Emily: Contexto do banco de dados  utilizado e transformações a serem realizadas. 
 - Yago: Objetivo da análise do banco de dados.
 ### Cronograma
 
