@@ -19,7 +19,9 @@ https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-20242025
 A base de dados utilizada faz parte do State of Data Brazil 2024-2025, o maior levantamento sobre o mercado de dados e inteligência artificial no Brasil, com mais de 5.200 profissionais participantes.
 
 O dataset reúne informações sobre carreira, salários, tecnologias utilizadas, formação e tendências da área de dados, permitindo uma análise abrangente do cenário atual no país.
+
 ### Justificativa
+
 ### Objetivo da análise
 O objetivo deste projeto é analisar os dados da pesquisa State of Data Brazil 2024-2025 para identificar padrões e tendências no mercado de dados no Brasil.
 
