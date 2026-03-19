@@ -24,11 +24,12 @@ O dataset reúne informações sobre carreira, salários, tecnologias utilizadas
 ## Ideia inicial do dashboard
 
 ### Objetivo da Análise 
-O objetivo deste projeto é analisar o mercado de dados no Brasil com base na pesquisa State of Data, identificando padrões e tendências como:
+O objetivo deste projeto é analisar os dados da pesquisa State of Data Brazil 2024-2025 para identificar padrões e tendências no mercado de dados no Brasil.
 
-- Faixa salarial por cargo e experiência
-- Tecnologias mais utilizadas
-- Perfil dos profissionais da área
-- Diferenças entre áreas (Data Analyst, Data Scientist, etc.)
+A análise busca responder questões como:
+- Qual a faixa salarial dos profissionais da área?
+- Quais tecnologias são mais utilizadas?
+- Como o nível de experiência impacta o salário?
+- Quais são os cargos mais comuns na área de dados?
 
-A análise busca gerar insights relevantes para quem deseja atuar ou evoluir na área de dados.
+Com isso, pretendemos gerar insights relevantes sobre o cenário atual da área.
