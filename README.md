@@ -9,6 +9,7 @@ Yago Henrique Zorzetto
 - Beatriz:
   Criação do repositório, README e adição dos membros. 
 - Emily: Contexto do banco de dados  utilizado.
+- Yago: Objetivo da análise do banco de dados.
 ### Cronograma
 
 ## Base de dados utilizada
