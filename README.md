@@ -4,6 +4,7 @@ Repositório para a unidade curricular Projeto Integrador do curso de Análise e
 ## Integrantes
 Beatriz Heimann Gesser. 
 Emily Nascimento Klinke. 
+Yago Henrique Zorzetto
 ### Planejamento das tarefas
 - Beatriz:
   Criação do repositório, README e adição dos membros. 
@@ -21,3 +22,13 @@ O dataset reúne informações sobre carreira, salários, tecnologias utilizadas
 ### Objetivo da análise
 ### Transformações a serem realizadas
 ## Ideia inicial do dashboard
+
+### Objetivo da Análise 
+O objetivo deste projeto é analisar o mercado de dados no Brasil com base na pesquisa State of Data, identificando padrões e tendências como:
+
+- Faixa salarial por cargo e experiência
+- Tecnologias mais utilizadas
+- Perfil dos profissionais da área
+- Diferenças entre áreas (Data Analyst, Data Scientist, etc.)
+
+A análise busca gerar insights relevantes para quem deseja atuar ou evoluir na área de dados.
