@@ -14,7 +14,8 @@ Yago Henrique Zorzetto
 - Beatriz:
   Criação do repositório, README e adição dos membros. 
 - Emily: Contexto do banco de dados  utilizado e transformações a serem realizadas. 
-- Yago: Objetivo da análise do banco de dados e Justificativa 
+- Yago: Objetivo da análise do banco de dados e Justificativa
+- Vitor: Ideia Inicial do Dashboard
 
 ### Cronograma
 
@@ -51,5 +52,15 @@ Para a realização da análise, serão aplicadas as seguintes transformações 
 - Agrupamento de dados por categorias (cargo, experiência, etc.)
 - Cálculo de métricas como média salarial
 - Filtragem de dados inconsistentes ou irrelevantes
+
 ## Ideia inicial do dashboard
+
+O dashboard será desenvolvido em **Streamlit**, priorizando a entrega rápida e eficiente de indicadores reais:
+
+### Indicadores de Mercado (KPIs)
+O topo da aplicação apresentará cards interativos com cálculos em tempo real:
+* **Média Salarial:** Valor médio baseado no cargo e nível selecionados.
+* **Tecnologia Principal:** A ferramenta mais utilizada pelo perfil filtrado.
+* **Amostra:** Quantidade de profissionais que compõem os dados visualizados.
+
 
