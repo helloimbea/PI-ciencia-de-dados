@@ -1,0 +1,18 @@
+O dashboard será desenvolvido utilizando a biblioteca **Streamlit**, focando em uma interface **Low Code** que permita a exploração interativa dos dados da pesquisa *State of Data Brazil*. A estrutura será dividida em três áreas principais:
+
+#### 1. Painel de Filtros (Barra Lateral)
+Para permitir uma análise personalizada, o usuário poderá filtrar os dados por:
+* **Nível de Experiência:** Estagiário, Júnior, Pleno, Sênior e Gestão.
+* **Modelo de Trabalho:** Remoto, Híbrido ou Presencial.
+* **Estado (UF):** Foco nas regiões com maior concentração de oportunidades.
+
+#### 2. Indicadores de Mercado (KPIs)
+Cards informativos no topo da página que mostram métricas calculadas em tempo real:
+* **Média Salarial:** Valor médio baseado no cargo e nível selecionados.
+* **Tecnologia Principal:** A ferramenta mais utilizada pelo perfil filtrado.
+* **Amostra:** Quantidade de profissionais que compõem os dados visualizados.
+
+#### 3. Visualizações Gráficas
+Gráficos interativos integrados com a biblioteca **Pandas**:
+* **Comparativo Salarial:** Gráfico de barras relacionando cargos e faixas de remuneração.
+* **Mapa de Competências:** Visualização das tecnologias (Python, SQL, etc.) mais citadas.
