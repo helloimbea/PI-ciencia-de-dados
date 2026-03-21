@@ -1,21 +1,40 @@
 # Projeto Integrador
 Repositório para a unidade curricular Projeto Integrador do curso de Análise e Desenvolvimento de Sistemas fornecido pelo SENAC.
+
 ## Tema do projeto
+
+### *Explorando o Mercado de Dados no Brasil: Uma Análise com Base na Pesquisa State of Data Brazil 2024-2025*
+
+Este projeto propõe a criação de um painel analítico a partir da base de dados da pesquisa *State of Data Brazil 2024-2025*, realizada pela Data Hackers em parceria com a Bain & Company. Por meio de um processo estruturado de ETL (Extract, Transform, Load) utilizando a biblioteca Pandas, os dados serão tratados e armazenados em uma base estruturada para posterior visualização com Streamlit.
+
+A proposta é explorar múltiplas camadas do mercado de dados brasileiro, permitindo ao usuário final encontrar informações como:
+
+ - Perfil demográfico dos profissionais (faixa etária, região, gênero, formação);
+ - Distribuição por níveis de experiência (júnior, pleno, sênior, gestão);
+ - Ferramentas e tecnologias mais utilizadas em diferentes áreas (engenharia, análise e ciência de dados);
+ - Principais desafios enfrentados por times de dados;
+ - Objetivos de carreira e tendências de especialização.
+
+Espera-se não apenas aplicar os aprendizados técnicos das disciplinas do semestre, como também gerar um projeto funcional que possa servir como ferramenta de apoio para estudantes, profissionais e recrutadores interessados em compreender as tendências e oportunidades no setor de dados no Brasil.
+
+
 ## Integrantes
-Beatriz Heimann Gesser. 
-Davi Urbina Siqueira.
-Emily Nascimento Klinke. 
-Gabriel Hisatugu Alves De Oliveira.
-Thalia Maria Machado.
-Thalita Pastorini de Araujo.
-Vitor Aluisio Souza Lopes.
-Yago Henrique Zorzetto
+ - Beatriz Heimann Gesser. 
+ - Davi Urbina Siqueira.
+ - Emily Nascimento Klinke. 
+ - Gabriel Hisatugu Alves De Oliveira.
+ - Thalia Maria Machado.
+ - Thalita Pastorini de Araujo.
+ - Vitor Aluisio Souza Lopes.
+ - Yago Henrique Zorzetto
+
 ### Planejamento das tarefas
 - Beatriz:
   Criação do repositório, README e adição dos membros. 
 - Emily: Contexto do banco de dados  utilizado e transformações a serem realizadas. 
 - Yago: Objetivo da análise do banco de dados e Justificativa
 - Vitor: Ideia Inicial do Dashboard
+- Gabriel: Construção do Tema
 
 ### Cronograma
 
