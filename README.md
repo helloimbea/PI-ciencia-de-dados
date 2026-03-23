@@ -29,23 +29,22 @@ Espera-se não apenas aplicar os aprendizados técnicos das disciplinas do semes
  - Yago Henrique Zorzetto
 
 ### Planejamento das tarefas
-- Beatriz:
-  Criação do repositório, README e adição dos membros. 
+- Beatriz: Criação do repositório, README e adição dos membros. 
 - Emily: Contexto do banco de dados  utilizado e transformações a serem realizadas. 
 - Yago: Objetivo da análise do banco de dados e Justificativa
 - Vitor: Ideia Inicial do Dashboard
 - Gabriel: Construção do Tema
 
 ### Cronograma
-🗓️ Semana 1 — Planejamento e Estruturação. 
-Beatriz: Criação do repositório no GitHub, elaboração do README.md e adição dos integrantes. 
+🗓️ Semana 1 — Planejamento e Estruturação  
+Beatriz: Criação do repositório no GitHub, elaboração do README.md e adição dos integrantes  
 Gabriel: Construção do tema do projeto  
 Emily: Elaboração do contexto da base de dados  
 Yago: Definição do objetivo da análise e justificativa  
 Vitor: Desenvolvimento da ideia inicial do dashboard  
 Thalita: Elaboração do cronograma do projeto  
   
-🗓️ Semana 2 — Consolidação da Documentação. 
+🗓️ Semana 2 — Consolidação da Documentação  
 Beatriz: Organização e atualização do README.md  
 Emily: Ajustes na descrição da base de dados e transformações  
 Yago: Revisão do objetivo e justificativa  
@@ -53,20 +52,20 @@ Vitor: Refinamento da ideia do dashboard
 Gabriel: Revisão do tema do projeto  
 Thalita: Ajustes no cronograma  
   
-🗓️ Semana 3 — Definição das Transformações. 
+🗓️ Semana 3 — Definição das Transformações  
 Emily: Detalhamento das transformações a serem realizadas nos dados (ETL). 
 Thalita: Revisão e organização do planejamento no README. 
   
-🗓️ Semana 4 — Estruturação da Proposta do Dashboard. 
+🗓️ Semana 4 — Estruturação da Proposta do Dashboard  
 Vitor: Refinamento da estrutura do dashboard e definição dos indicadores (KPIs). 
 Thalita: Atualização do cronograma conforme evolução do projeto. 
   
-🗓️ Semana 5 — Revisão Geral da Etapa. 
+🗓️ Semana 5 — Revisão Geral da Etapa  
 Todos os integrantes:  
 Revisão das informações inseridas no README. 
 Verificação de coerência entre tema, objetivo, justificativa e proposta. 
   
-🗓️ Semana 6 — Finalização da Primeira Etapa. 
+🗓️ Semana 6 — Finalização da Primeira Etapa  
 Todos os integrantes:  
 Ajustes finais na documentação. 
 Organização do repositório. 
