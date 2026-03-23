@@ -31,9 +31,10 @@ Espera-se não apenas aplicar os aprendizados técnicos das disciplinas do semes
 ### Planejamento das tarefas
 - Beatriz: Criação do repositório, README e adição dos membros. 
 - Emily: Contexto do banco de dados  utilizado e transformações a serem realizadas. 
-- Yago: Objetivo da análise do banco de dados e Justificativa
-- Vitor: Ideia Inicial do Dashboard
-- Gabriel: Construção do Tema
+- Yago: Objetivo da análise do banco de dados e Justificativa. 
+- Vitor: Ideia Inicial do Dashboard.
+- Gabriel: Construção do Tema.
+- Thalita: Cronograma.
 
 ### Cronograma
 🗓️ Semana 1 — Planejamento e Estruturação  
