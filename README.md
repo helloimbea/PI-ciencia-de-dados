@@ -29,6 +29,7 @@ Espera-se não apenas aplicar os aprendizados técnicos das disciplinas do semes
  - Yago Henrique Zorzetto
 
 ### Planejamento das tarefas
+**Primeira Etapa:**  
 - Beatriz: Criação do repositório, README e adição dos membros. 
 - Emily: Contexto do banco de dados  utilizado e transformações a serem realizadas. 
 - Yago: Objetivo da análise do banco de dados e Justificativa. 
@@ -36,7 +37,16 @@ Espera-se não apenas aplicar os aprendizados técnicos das disciplinas do semes
 - Gabriel: Construção do Tema.
 - Thalita: Cronograma.
 
+**Segunda Etapa:**  
+- Beatriz:
+- Emily: 
+- Yago:
+- Vitor: 
+- Gabriel: 
+- Thalita:
+
 ### Cronograma
+**Primeira Etapa:**  
 🗓️ Semana 1 — Planejamento e Estruturação  
 Beatriz: Criação do repositório no GitHub, elaboração do README.md e adição dos integrantes  
 Gabriel: Construção do tema do projeto  
@@ -73,6 +83,8 @@ Organização do repositório.
 Preparação para entrega da primeira etapa. 
 ## Base de dados utilizada
 https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-20242025
+
+**Segunda Etapa:**  
 
 ### Contexto
 A base de dados utilizada faz parte do State of Data Brazil 2024-2025, o maior levantamento sobre o mercado de dados e inteligência artificial no Brasil, com mais de 5.200 profissionais participantes.
