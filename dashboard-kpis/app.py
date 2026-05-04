@@ -1,21 +1,22 @@
 import streamlit as st
 from src.load_data import carregar_dados
-from src.cleaning import tratar_dados
+from src.cleaning import limpar_dados, criar_features
 from src.metrics import calcular_kpis
 
-st.set_page_config(
-    page_title="Dashboard",
-    layout="wide"
-)
+import streamlit as st
+from src.load_data import carregar_dados
+from src.cleaning import limpar_dados
 
-st.title("Dashboard de KPIs")
+# carregar dados
+df_raw = carregar_dados()
 
-# carregar
-df = carregar_dados()
+# tratar dados
+df_tratado = limpar_dados(df_raw.copy())
 
-# tratar
-df = tratar_dados(df)
+st.title("Comparação de Dados")
 
+st.subheader("📄 Dados Brutos")
+st.dataframe(df_raw)
 
-
-st.dataframe(df)
+st.subheader("✨ Dados Tratados")
+st.dataframe(df_tratado)
