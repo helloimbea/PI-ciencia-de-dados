@@ -10,7 +10,7 @@ Este projeto propõe a criação de um painel analítico a partir da base de dad
 A proposta é explorar múltiplas camadas do mercado de dados brasileiro, permitindo ao usuário final encontrar informações como:
 
  - Perfil demográfico dos profissionais (faixa etária, região, gênero, formação);
- - Distribuição por níveis de experiência (júnior, pleno, sênior, gestão);
+ - Distribuição por níveis de experiência (júnior, pleno, sênior);
  - Ferramentas e tecnologias mais utilizadas em diferentes áreas (engenharia, análise e ciência de dados);
  - Principais desafios enfrentados por times de dados;
  - Objetivos de carreira e tendências de especialização.
@@ -42,7 +42,7 @@ Espera-se não apenas aplicar os aprendizados técnicos das disciplinas do semes
 - Emily: 
 - Yago:
 - Vitor: 
-- Gabriel: 
+- Gabriel: Transformação dos dados usando Pandas e JupyterNotebook (pacote Anaconda)
 - Thalita:
 
 ### Cronograma
@@ -104,12 +104,14 @@ A análise busca responder questões como:
 - Quais tecnologias são mais utilizadas?
 - Como o nível de experiência impacta o salário?
 - Quais são os cargos mais comuns na área de dados?
+- Os profissionais de dados que usam IA generativa ganham mais?
 
 Com isso, pretendemos gerar insights relevantes sobre o cenário atual da área.
 
 ### Transformações a serem realizadas
 Para a realização da análise, serão aplicadas as seguintes transformações nos dados:
 
+- Remoção de espaços duplos e espaços vazios antes e depois dos valores nas células
 - Remoção ou tratamento de valores nulos
 - Padronização de nomes de cargos e tecnologias
 - Seleção das colunas relevantes para a análise
