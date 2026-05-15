@@ -38,12 +38,8 @@ Espera-se não apenas aplicar os aprendizados técnicos das disciplinas do semes
 - Thalita: Cronograma.
 
 **Segunda Etapa:**  
-- Beatriz:
-- Emily: 
-- Yago:
-- Vitor: 
+- Beatriz: Criação da base e estrutura do projeto. Visualização dos KPIs com Streamlit e Plotly
 - Gabriel: Transformação dos dados usando Pandas e JupyterNotebook (pacote Anaconda)
-- Thalita:
 
 ### Cronograma
 **Primeira Etapa:**  
@@ -81,10 +77,25 @@ Todos os integrantes:
 Ajustes finais na documentação. 
 Organização do repositório. 
 Preparação para entrega da primeira etapa. 
+
+**Segunda Etapa:**  
+
+🗓️ Semana 1 — Base do projeto 
+Foi criada a base do projeto, como pastas e estrutura do programa
+  
+🗓️ Semana 2 — Tratamento dos dados 
+Os dados da database foram tratados e organizados em novas tabelas
+  
+🗓️ Semana 3 — Definição das Transformações  
+Transformamos os dados em visualização com gráficos e métricas
+  
+🗓️ Semana 4 — Estruturação da Proposta do Dashboard  
+Upload no streamlit cloud
+
+
 ## Base de dados utilizada
 https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-20242025
 
-**Segunda Etapa:**  
 
 ### Contexto
 A base de dados utilizada faz parte do State of Data Brazil 2024-2025, o maior levantamento sobre o mercado de dados e inteligência artificial no Brasil, com mais de 5.200 profissionais participantes.
