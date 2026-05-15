@@ -80,16 +80,16 @@ Preparação para entrega da primeira etapa.
 
 **Segunda Etapa:**  
 
-🗓️ Semana 1 — Base do projeto 
+🗓️ Semana 1 — Base do projeto  
 Foi criada a base do projeto, como pastas e estrutura do programa
   
-🗓️ Semana 2 — Tratamento dos dados 
+🗓️ Semana 2 — Tratamento dos dados  
 Os dados da database foram tratados e organizados em novas tabelas
   
-🗓️ Semana 3 — Definição das Transformações  
+🗓️ Semana 3 — Visualização 
 Transformamos os dados em visualização com gráficos e métricas
   
-🗓️ Semana 4 — Estruturação da Proposta do Dashboard  
+🗓️ Semana 4 — Publicação 
 Upload no streamlit cloud
 
 
