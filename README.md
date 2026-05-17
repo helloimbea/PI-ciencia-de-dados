@@ -81,17 +81,31 @@ Preparação para entrega da primeira etapa.
 **Segunda Etapa:**  
 
 🗓️ Semana 1 — Base do projeto  
-Foi criada a base do projeto, como pastas e estrutura do programa
+Foi criada a base do projeto, como pastas e estrutura do programa.
   
 🗓️ Semana 2 — Tratamento dos dados  
-Os dados da database foram tratados e organizados em novas tabelas
+Os dados da database foram tratados e organizados em novas tabelas usando Pandas e JupyterNotebook, seguindo as ideias de transformação da primeira etapa.
   
 🗓️ Semana 3 — Visualização 
-Transformamos os dados em visualização com gráficos e métricas
+Transformamos os dados em visualização com gráficos e métricas usando Plotly e Streamlit.  
+O Streamlit foi utilizado como framework principal do dashboard, sendo responsável pela construção da interface visual e pela integração entre os dados e os indicadores apresentados.  
+Com ele, foi possível desenvolver uma aplicação web interativa em Python de forma rápida e organizada, permitindo:  
+exibição dos KPIs em tempo real;  
+criação do layout do dashboard;  
+organização dos gráficos na tela;  
+renderização dinâmica dos dados carregados dos arquivos CSV;  
+construção de uma aplicação acessível via navegador sem necessidade de desenvolvimento front-end tradicional.  
+  
+O Plotly foi utilizado para a criação das visualizações gráficas interativas do dashboard.  
+A biblioteca permitiu transformar os dados processados em gráficos modernos e dinâmicos, melhorando a análise visual das informações relacionadas ao mercado de tecnologia e salários.  
+Com o Plotly, foram desenvolvidos:  
+gráficos de barras para distribuição de cargos e faixas salariais;  
+gráfico de pizza para tecnologias mais utilizadas;  
+gráficos comparativos relacionados ao uso de IA e salários;  
+mapa de calor relacionando nível profissional e faixa salarial.  
   
 🗓️ Semana 4 — Publicação 
-Upload no streamlit cloud
-
+Upload no Streamlit Cloud
 
 ## Base de dados utilizada
 https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-20242025
