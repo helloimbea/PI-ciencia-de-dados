@@ -36,47 +36,21 @@ nivel_df = load_nivel_salario()
 # TÍTULO
 # =========================
 
-st.title("📊 Dashboard Mercado de Dados")
+st.title("📊 Dashboard de Indicadores do Mercado Tech")
 
-st.markdown(
-    """
-    Este dashboard apresenta indicadores sobre salários,
-    tecnologias e níveis profissionais na área de dados.
-    """
-)
+st.markdown("""
+Dashboard desenvolvido em Streamlit para visualização de KPIs
+sobre salários, cargos, tecnologias e níveis profissionais.
+""")
 
-# =========================
-# SIDEBAR - FILTROS
-# =========================
-
-st.sidebar.header("Filtros")
-
-cargo_selecionado = st.sidebar.selectbox(
-    "Cargo",
-    ["Todos"] + cargos_df["cargo"].tolist()
-)
-
-nivel_selecionado = st.sidebar.selectbox(
-    "Nível",
-    ["Todos"] + nivel_df["2.g_nivel"].tolist()
-)
-
-linguagem_selecionada = st.sidebar.selectbox(
-    "Tecnologia/Linguagem",
-    ["Todos"] + linguagens_df["linguagem"].tolist()
-)
-
-faixa_selecionada = st.sidebar.selectbox(
-    "Faixa Salarial",
-    ["Todas"] + faixa_df["faixa_salarial_ordenada"].tolist()
-)
+st.divider()
 
 # =========================
 # KPIs
 # =========================
 
 media_salarial = calcular_media_salarial(faixa_df)
-principal_tecnologia = calcular_tecnologia_principal(linguagens_df)
+tecnologia_principal = calcular_tecnologia_principal(linguagens_df)
 amostra = calcular_amostra(cargos_df)
 
 col1, col2, col3 = st.columns(3)
@@ -90,13 +64,13 @@ with col1:
 with col2:
     st.metric(
         label="💻 Tecnologia Principal",
-        value=principal_tecnologia
+        value=tecnologia_principal
     )
 
 with col3:
     st.metric(
         label="👥 Amostra",
-        value=f"{amostra:,} profissionais"
+        value=f"{amostra:,}"
     )
 
 st.divider()
