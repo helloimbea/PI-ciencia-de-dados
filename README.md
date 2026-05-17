@@ -86,7 +86,7 @@ Foi criada a base do projeto, como pastas e estrutura do programa.
 🗓️ Semana 2 — Tratamento dos dados  
 Os dados da database foram tratados e organizados em novas tabelas usando Pandas e JupyterNotebook, seguindo as ideias de transformação da primeira etapa.
   
-🗓️ Semana 3 — Visualização 
+🗓️ Semana 3 — Visualização  
 Transformamos os dados em visualização com gráficos e métricas usando Plotly e Streamlit.  
 O Streamlit foi utilizado como framework principal do dashboard, sendo responsável pela construção da interface visual e pela integração entre os dados e os indicadores apresentados.  
 Com ele, foi possível desenvolver uma aplicação web interativa em Python de forma rápida e organizada, permitindo:  
@@ -104,7 +104,7 @@ gráfico de pizza para tecnologias mais utilizadas;
 gráficos comparativos relacionados ao uso de IA e salários;  
 mapa de calor relacionando nível profissional e faixa salarial.  
   
-🗓️ Semana 4 — Publicação 
+🗓️ Semana 4 — Publicação  
 Upload no Streamlit Cloud
 
 ## Base de dados utilizada
