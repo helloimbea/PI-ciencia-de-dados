@@ -1,5 +1,5 @@
 # Projeto Integrador
-Repositório para a unidade curricular Projeto Integrador do curso de Análise e Desenvolvimento de Sistemas fornecido pelo SENAC.
+Repositório para o segundo semestre da unidade curricular Projeto Integrador do curso de Análise e Desenvolvimento de Sistemas fornecido pelo SENAC.
 
 ## Tema do projeto
 
@@ -140,4 +140,6 @@ O topo da aplicação apresentará cards interativos com cálculos em tempo real
 * **Tecnologia Principal:** A ferramenta mais utilizada pelo perfil filtrado.
 * **Amostra:** Quantidade de profissionais que compõem os dados visualizados.
 
-
+# DASHBOARD PUBLICADO NO STREAMLIT CLOUD  
+https://pi-ciencia-de-dados.streamlit.app  
+![Print tela](/dashboard-kpis/assets/print-dashboard.png)
