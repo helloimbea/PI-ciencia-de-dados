@@ -156,4 +156,32 @@ O topo da aplicação apresentará cards interativos com cálculos em tempo real
 
 # DASHBOARD PUBLICADO NO STREAMLIT CLOUD  
 https://pi-ciencia-de-dados.streamlit.app  
-![Print tela](/dashboard-kpis/assets/print-dashboard.png)
+![Print tela](/dashboard-kpis/assets/print-dashboard.png)  
+
+## Resumo dos Gráficos Desenvolvidos
+
+### Distribuição de Cargos
+
+Gráfico de barras utilizado para apresentar a quantidade de profissionais em cada cargo da área de tecnologia e dados.  
+Esse gráfico permite identificar quais funções possuem maior representatividade dentro da amostra analisada.
+
+### Top Tecnologias
+
+Gráfico de pizza desenvolvido para visualizar as tecnologias e linguagens mais utilizadas pelos profissionais.  
+A visualização facilita a identificação das ferramentas mais populares e relevantes no mercado atual.
+
+### Distribuição Salarial
+
+Gráfico de barras responsável por demonstrar a concentração de profissionais em diferentes faixas salariais.  
+Esse indicador auxilia na compreensão da distribuição de renda dentro do setor analisado.
+
+### Uso de IA vs Salário
+
+Gráfico comparativo criado para relacionar o uso de Inteligência Artificial com diferentes faixas salariais.  
+O objetivo é observar possíveis padrões entre adoção de IA e níveis de remuneração.
+
+### Nível Profissional vs Salário
+
+Mapa de calor desenvolvido para representar a relação entre nível profissional e faixa salarial.  
+Essa visualização permite identificar tendências salariais associadas à senioridade dos profissionais.
+
